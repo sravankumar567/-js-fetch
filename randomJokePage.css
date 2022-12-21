@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    height: 100vh;
+    display: grid;
+    background-color: skyblue;
+    place-items: center;
+}
+img{
+    height: 500px;
+    width: 500px;
+    margin-left: 0%;
+}
+p{
+    font-size: 5.1rem;
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button{
+    margin-left: 45%;
+    padding: 20px;
+    border-radius: 15%;
+
+
+}
